@@ -1,0 +1,3 @@
+Folder containing definitions of view classes - representing the UI interface components. These classes display the data for user and handle user input actions - by executing relevant methods stored in assigned View Model. When particular method change the data interface in View Model, the View class updates immediately - as defined when subscribing to the View Model's data. 
+
+In this case, the subscription mechanism is based on traitlets library.

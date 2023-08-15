@@ -1,0 +1,12 @@
+.custom-widget {
+    display: flex;
+    flex-direction: column;
+    margin: 2.5px;
+}
+
+.custom-input {
+    background: rgb(224, 235, 246); 
+    max-width: 200px;
+    margin-bottom: 2.5px;
+    padding: 5px;
+}

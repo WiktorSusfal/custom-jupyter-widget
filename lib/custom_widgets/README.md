@@ -1,0 +1,1 @@
+Folder containing definitions of custom GUI widgets to be used in Jupyter Notebook along with other predefined ones. The anywidget library is used to simplify the process of developing new widgets. Read more: https://anywidget.dev/en/getting-started/ . 

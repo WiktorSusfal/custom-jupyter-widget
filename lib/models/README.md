@@ -1,0 +1,1 @@
+Folder containing definitions of model classes - representing business data model. These classes encapsulate the application's data structures, database interactions, calculations, and other business-related functionalities.
